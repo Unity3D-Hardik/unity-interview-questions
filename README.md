@@ -12,7 +12,7 @@ Let's answer the questions and achieve your goals !!
 - [Fresher](#Fresher)
 - [Junior](#Junior)
 - [Senior](#Senior)
-- [Own Question](#Own)
+- [Own Question](#All)
 ---
 # Intern
 Description: who study in school and work at a company at the same time.
@@ -1026,7 +1026,7 @@ Description: Practically, those who have spent more than 5 years working with Un
 </details>
 
 ---
-# Own
+# All
 
 # Topics
 - [Unity Mobile Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
